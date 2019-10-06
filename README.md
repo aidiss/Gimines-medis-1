@@ -15,4 +15,4 @@ Surasome:
 7. Mokymosi vieta ir baigimo data,
 8. Nuotrauka, (jeigu galima).
 
-Mazdaug principas turetu buti toks, laukiu ivertinimo idejos ir pasiulymo.
+Mazdaug principas turetu buti toks, laukiu ivertinimo idejos ar pasiulymo.
